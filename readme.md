@@ -66,19 +66,19 @@ El ahorro en líneas de código se tradujo en menor posibilidad de errores y may
 ## 6. GRÁFICOS O FOTOGRAFÍAS  
 
 ### 6.1 Inserción de un nuevo registro  
-![Inserción de usuario](ruta/a/imagen1.png)  
+![Inserción de registro](https://i.imgur.com/p8iPb9u.png)  
 *Figura 1: Ejecución de la operación “Create” usando ORM, con log de la consulta generada.*
 
 ### 6.2 Consulta de registros  
-![Consulta usuarios](ruta/a/imagen2.png)  
+![Consulta registro](https://i.imgur.com/rBKQTp4.png)  
 *Figura 2: Resultado de la consulta “Read” mostrando los registros actuales.*  
 
 ### 6.3 Actualización de registro  
-![Actualización usuario](ruta/a/imagen3.png)  
+![Actualización registro](https://i.imgur.com/K9wTFSZ.png)  
 *Figura 3: Modificación de un campo y commit de la transacción.*
 
 ### 6.4 Eliminación de registro  
-![Eliminación usuario](ruta/a/imagen4.png)  
+![Eliminación registro](https://i.imgur.com/JEdJL4J.png)  
 *Figura 4: Eliminación de un registro con verificación posterior vía consulta.*
 
 ---
